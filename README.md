@@ -165,6 +165,10 @@ The map function is useful when we want to do something to all values in a colle
 
 filter, as the name suggests, is a function that helps “filter” out unwanted items. For example, we may want to filter out all the odd numbers from scores.
 
+### Reduce
+
+It is used to make calculations from an iteration. Its structure has 3 arguments: the expression, the element we want to go through and the starting variable. You can find it inside the functools library.
+
 ## Recursion
 
 In functional programming, there is not concept of 'for' or 'while' loop, instead recursion is used. Recursion is a process in which a functions calls itself directly or indirectly.
