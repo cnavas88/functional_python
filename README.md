@@ -140,7 +140,17 @@ Other situation:
 
 Notice the important difference: by doing x = [5, 2, 3, 4] we have created a different object, so that x and y point to different objects and so their values now differ. In the previous case, by doing x [0] = 5 we directly modified the same object and no new one was created.
 
-## Functions are First-Class
+## Functions are First-Class and can be Higher-Order
+
+First-class objects are handled uniformly throughout. They may be stored in data structures, passed as arguments, or used in control structures. A programming language is said to support first-class functions if it treats functions as first-class objects. 
+
+Properties of first class functions:
+
+- A function is an instance of the Object type.
+- You can store the function in a variable.
+- You can pass the function as a parameter to another function.
+- You can return the function from a function.
+- You can store them in data structures as hash tables, lists, ...
 
 ## Recursion
 
