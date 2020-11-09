@@ -143,3 +143,5 @@ Notice the important difference: by doing x = [5, 2, 3, 4] we have created a dif
 ## Functions are First-Class
 
 ## Recursion
+
+In functional programming, there is not concept of 'for' or 'while' loop, instead recursion is used. Recursion is a process in which a functions calls itself directly or indirectly.
