@@ -153,6 +153,14 @@ Properties of first class functions:
 - You can store them in data structures as hash tables, lists, ...
 - Nested functions called Closures.
 
+Python has 3 first-class functions:
+
+### Map
+
+map is a function that takes a set of inputs and transform them into another set based on a process (function) specified. 
+
+The map function is useful when we want to do something to all values in a collection.
+
 ## Recursion
 
 In functional programming, there is not concept of 'for' or 'while' loop, instead recursion is used. Recursion is a process in which a functions calls itself directly or indirectly.
