@@ -151,7 +151,17 @@ Properties of first class functions:
 - You can pass the function as a parameter to another function.
 - You can return the function from a function.
 - You can store them in data structures as hash tables, lists, ...
+- Nested functions called Closures.
 
 ## Recursion
 
 In functional programming, there is not concept of 'for' or 'while' loop, instead recursion is used. Recursion is a process in which a functions calls itself directly or indirectly.
+
+## Lambda functions
+
+In python, anonymous function means that a functions without name. As we already know that def keyword is used to define the normal functions and the lambda keyword is used to create anonymous functions.
+
+- This function can have any number of arguments but only one expression, which is evaluated and returned.
+- One is free to use lambda functions wherever function objects are required.
+- You need to keep in your knowledge that lambda functions are syntactically restricted to a single expression.
+
