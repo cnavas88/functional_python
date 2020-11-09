@@ -1,4 +1,4 @@
-# PYthon program to demostrate higher order functions
+# Python program to demostrate higher order functions
 
 def shout(text):
     return text.upper()
