@@ -4,10 +4,10 @@ Repository to write example and solutions in python for functional programming
 
 ## Pure functions
 
-<!-- pipe = [
-    function1(),
-    function2(),
-    final_function()
-]
+These functions have two main properties. First it always produces the same output for the same arguments. It does not change or modifies the input variable.
 
-railway.exec(state, pipe) -->
+## Variables are Inmutability
+
+## Functions are First-Class
+
+## Recursion
