@@ -161,6 +161,10 @@ map is a function that takes a set of inputs and transform them into another set
 
 The map function is useful when we want to do something to all values in a collection.
 
+### Filter
+
+filter, as the name suggests, is a function that helps “filter” out unwanted items. For example, we may want to filter out all the odd numbers from scores.
+
 ## Recursion
 
 In functional programming, there is not concept of 'for' or 'while' loop, instead recursion is used. Recursion is a process in which a functions calls itself directly or indirectly.
