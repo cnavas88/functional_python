@@ -181,3 +181,14 @@ In python, anonymous function means that a functions without name. As we already
 - One is free to use lambda functions wherever function objects are required.
 - You need to keep in your knowledge that lambda functions are syntactically restricted to a single expression.
 
+## Decorators
+
+## Lists compresions
+
+List comprehensions provide a concise way to create lists.
+
+It consists of brackets containing an expression followed by a for clause, then zero or more for or if clauses. The expressions can be anything, meaning you can put in all kinds of objects in lists.
+
+- List comprehension is an elegant way to define and create lists based on existing lists.
+- List comprehension is generally more compact and faster than normal functions and loops for creating list.
+- Remember, every list comprehension can be rewritten in for loop, but every for loop can't be rewritten in the form of list comprehension.
