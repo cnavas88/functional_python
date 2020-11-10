@@ -183,7 +183,7 @@ In python, anonymous function means that a functions without name. As we already
 
 ## Decorators
 
-## Lists compresions
+## Lists comprehensions
 
 List comprehensions provide a concise way to create lists.
 
